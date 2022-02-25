@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The decree and establishment of the Kings Maiestie, vpon a controuersie of precedence, betweene the yonger sonnes of viscounts and barons, and the baronets and touching some other points also, concerning aswell bannerets, as the said baronets.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1612</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69363</idno>
+            <idno type="STC">STC 9234</idno>
+            <idno type="STC">ESTC S105542</idno>
+            <idno type="EEBO-CITATION">99841269</idno>
+            <idno type="PROQUEST">99841269</idno>
+            <idno type="VID">5842</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69363)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 5842)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 592:2 or 1832:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The decree and establishment of the Kings Maiestie, vpon a controuersie of precedence, betweene the yonger sonnes of viscounts and barons, and the baronets and touching some other points also, concerning aswell bannerets, as the said baronets.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>[4], 14, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1612.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Westminster, the eight and twentieth day of May, in the tenth yeere of our raigne ..</note>
+                  <note>The first leaf is blank except for signature-mark "A" in part of a woodcut frame; the last leaf is blank.</note>
+                  <note>Catchword, A3r, "The". Variant: earlier setting of quire A, with A3r catchword "Ordinance,".</note>
+                  <note>Identified as STC 9234a at reel 592:2.</note>
+                  <note>Reproductions of the originals in the Folger Shakespeare Library and Harvard University Library.</note>
+                  <note>Appears at reel 592 (Folger Shakespeare Library copy) and at reel 1832 (Harvard University Library copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Precedence --  Great Britain --  Early works to 1800.</term>
+               <term>Nobility --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:5842:1"/>
+            <pb facs="tcp:5842:1"/>
+            <p>THE DECREE AND ESTABLISHMENT OF THE KINGS MAIESTIE, <hi>
+                  <g ref="char:V">Ʋ</g>pon a controuerſie of</hi> Precedence, betweene the yonger ſonnes of Viſcounts <hi>and Barons, and the Baronets;</hi>
+            </p>
+            <p>And touching ſome other points alſo, <hi>concerning aſwell Bannerets, as the ſaid Baronets.</hi>
+            </p>
+            <p>¶ Imprinted at London by <hi>Robert Barker,</hi> Printer to the Kings moſt Excellent Maieſtie. 1612.</p>
+         </div>
+      </front>
+      <body>
+         <div type="royal_ordinance">
+            <pb facs="tcp:5842:2"/>
+            <pb n="1" facs="tcp:5842:2"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon, surmounted by a crown and decorated with Tudor rose and Scottish thistle</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">I</seg>AMES, <hi>by the grace of</hi> GOD, <hi>King of England, Scotland, France and Ireland, Defender of the Faith, &amp;c.</hi>
+               </signed>
+               <salute>To all to whome theſe preſents ſhall come, Greeting.</salute>
+            </opener>
+            <p>Know ye that We haue made a certaine Ordinance, Eſtabliſh<g ref="char:EOLhyphen"/>ment, and finall Decree, whereof the tenor followeth in theſe wordes:</p>
+            <div type="body_of_royal_ordinance">
+               <pb n="2" facs="tcp:5842:3"/>
+               <head>The Decree and Establiſhment of the Kings Maieſtie, vpon a controuerſie of Precedence, betweene the yonger ſonnes of Viſcounts and Barons, and the Baro<g ref="char:EOLhyphen"/>nets; And touching ſome other points alſo concerning, aſwell Bannerets, as the ſaid Baronets.</head>
+               <p>THE Kings moſt Excellent Maieſty, hauing vpon the Petition, and ſub<g ref="char:EOLhyphen"/>miſſion of both parts, taken into his Royal audience &amp; cenſure, a certaine con<g ref="char:EOLhyphen"/>trouerſie, touching place and Precedence, betweene the yonger ſonnes of Viſcounts, and Barons, and the Baronets, (being a de<g ref="char:EOLhyphen"/>gree by his Maieſtie newly created) which controuerſie did ariſe vpon an inference onely out of ſome darke words contained in the Letters Patents of the ſaid Baronets: And hauing in perſon heard both parts, and their learned Counſell, three ſeuerall daies at large after information taken from the Heraults, &amp; due conſideration of ſuch proofes as were produced on both ſides, hath declared and decreed as followeth.</p>
+               <p>HIS Maieſtie well weighing that the Letters Patents of the Baronets
+<pb n="3" facs="tcp:5842:3"/>haue no ſpeciall clauſe or expreſſe words to giue vnto them the ſaide Precedence; And beeing a witneſſe vnto himſelfe (which is a teſtimony aboue all excep<g ref="char:EOLhyphen"/>tion) that his Princely meaning was onely to grace, and aduance this new Dignitie of his Maieſties erection; but not there<g ref="char:EOLhyphen"/>withal any wayes to wrong tacitely, &amp; ob<g ref="char:EOLhyphen"/>ſcurely a third partie, ſuch as the yonger ſonnes of Viſcounts &amp; Barons are, in that which is a flower of their fathers Nobilitie:</p>
+               <p>And hauing alſo had the atteſtation of the Lords of his Priuie Councell, who did declare that the Precedence (after debate and deliberation, while the Patent of the Baronets was in conſultation) was with one conſent reſolued and ordered for the yonger ſonnes of the Viſcounts, &amp; Barons:</p>
+               <p>And finding alſo that the clauſe where<g ref="char:EOLhyphen"/>by the Precedence is challenged by the Baronets, as by a kinde of conſequence in regard of place giuen vnto them aboue ſome Bannerets, doeth not warrant their claime (foraſmuch as the Precedence be<g ref="char:EOLhyphen"/>tweene the Bannerets themſelues, and the
+<pb n="4" facs="tcp:5842:4"/>yonger ſonnes of Viſcounts and Barons, appeareth not to haue bene regular or cer<g ref="char:EOLhyphen"/>taine, but full of confuſion and variety, and therefore not ſufficient whereupon to ground ſuch their pretence) but being chiefly mooued by the cleareneſſe of his Maieſties Royall intent, and meaning, and the explanation thereof by his Councell, (which his Royall meaning doeth, and euer muſt leade his Maieſties iudgement in the interpretation of his owne Actes,) hath finally ſentenced, adiudged, and eſta<g ref="char:EOLhyphen"/>bliſhed, that the yonger ſonnes of Viſ<g ref="char:EOLhyphen"/>counts, and Barons, ſhall take place and Precedence before all Baronets.</p>
+               <p>AND further, the better to ſettle, and cleare alſo all queſtion of Precedence that may concerne either Bannerets, or the yonger ſonnes of Viſcounts and Barons, or the ſaid Baronets, either as they haue rela<g ref="char:EOLhyphen"/>tion amongſt themſelues, or towards o<g ref="char:EOLhyphen"/>thers reſpectiuely: His Maieſty for himſelf, his heires and ſucceſſours, doeth ordaine and eſtabliſh, that ſuch Bannerets, as ſhall
+<pb n="5" facs="tcp:5842:4"/>be made by the Kings Maieſtie, his heires and ſucceſſors vnder his or their Standard, diſplayed in an Armie Royall in open warre, and the King perſonally preſent, for the terme of the liues of ſuch Bannerets, and no longer, (according to the moſt an<g ref="char:EOLhyphen"/>cient, and noble inſtitution) ſhall for euer hereafter in all places, and vpon all occa<g ref="char:EOLhyphen"/>ſions, take place, and Precedence, aſwel be<g ref="char:EOLhyphen"/>fore all other Bannerets whatſoeuer, (no reſpect being had to the time, and prioritie of their creation) as likewiſe before the yonger ſonnes of Viſcounts and Barons, and alſo before all Baronets.</p>
+               <p>And againe, that the yonger ſonnes of Viſcounts and Barons, and alſo all Baro<g ref="char:EOLhyphen"/>nets, ſhall in all places, and vpon all occa<g ref="char:EOLhyphen"/>ſions, take place and Precedence before all Bannerets whatſoeuer, other then ſuch as ſhall bee made by the King himſelfe, his heires and ſucceſſours in perſon, and in ſuch ſpeciall caſe, manner and forme as aforeſaid.</p>
+               <p>Neuertheleſſe, for a ſingular honour to the perſon of the moſt high and excellent
+<pb n="6" facs="tcp:5842:5"/>Prince HENRY now Prince of <hi>Wales,</hi> his Maieſties eldeſt ſonne; aſwell the yonger ſonnes of the Viſcounts, and Barons, as the Baronets, haue freely and voluntarily con<g ref="char:EOLhyphen"/>ſented and agreed at the hearing of the ſaid cauſe, in the preſence of his Maieſtie, and his Priuie Councell, and all the hea<g ref="char:EOLhyphen"/>rers, to giue place and Precedence, to ſuch Bannerets, as ſhalbe hereafter made by the ſaid moſt noble HENRY, now Prince of <hi>Wales,</hi> vnder the Kings Standard diſplayed in an Armie Royall in open warre, and the ſaid Prince there perſonally preſent:</p>
+               <p>Sauing the right of the yonger ſonnes of Viſcounts and Barons, &amp; of the ſaid Ba<g ref="char:EOLhyphen"/>ronets, and of the heires males of the bo<g ref="char:EOLhyphen"/>dies of ſuch Baronets, for the time being, in all other caſes according to the effect, and true intent and meaning of their Letters Patents, and of theſe preſents.</p>
+               <p>ANd his Maieſtie doth likewiſe by theſe preſents, for himſelfe, his heires and ſucceſſours ordeine, that the Knights of the moſt noble order of the Garter, the Priuie
+<pb n="7" facs="tcp:5842:5"/>Councellours of his Maieſtie, his heires and ſucceſſours, the Maſter of the Court of Wardes and Liueries, the Chancellour and vnder-Treaſourer of the Exchequer, Chancellour of the Duchie, the chiefe Iu<g ref="char:EOLhyphen"/>ſtice of the Court commonly called the Kings Bench, the Maſter of the Rolls, the chiefe Iuſtice of the Court of Common Pleas, the chiefe Baron of the Exchequer, and all other the Iudges and Barons of the degree of the Coife of the ſaide Courts, now, and for the time being, ſhall by rea<g ref="char:EOLhyphen"/>ſon of ſuch their Honourable order, and imployment of State and Iuſtice, haue place and Precedencie in all places, and vp<g ref="char:EOLhyphen"/>on all occaſions before the yonger ſonnes of Viſcounts and Barons, and before al Ba<g ref="char:EOLhyphen"/>ronets, Any cuſtome, vſe, ordinance, or o<g ref="char:EOLhyphen"/>ther thing to the contrary notwithſtan<g ref="char:EOLhyphen"/>ding. But that no other perſon or perſons whatſoeuer, vnder the degree of Barons of Parliament, ſhall take place before the ſaid Baronets, except onely the eldeſt ſonnes of Viſcounts and Barons, and others of higher degree, whereof no queſtion euer
+<pb n="8" facs="tcp:5842:6"/>was, or can bee made. And ſo his Maie<g ref="char:EOLhyphen"/>ſties meaning is, and accordingly he doth by theſe preſents, for him, his heires and ſucceſſours, ordeine and decree, that the ſaid Baronets, and the heires males of their bodies, ſhall in all places, and vpon all oc<g ref="char:EOLhyphen"/>caſions for euer, haue, hold, and enioy their place and Precedencie, next vnto, and immediatly after the yonger ſons of Viſ<g ref="char:EOLhyphen"/>counts and Barons; and that no perſon or perſons, nor State or States of men, ſhall haue or take place betweene them, Any Conſtitution, Order, Degree, Office, Ser<g ref="char:EOLhyphen"/>uice, Place, Imployment, Cuſtome, Vſe, or other thing whatſoeuer now or hereafter to the contrary notwithſtanding.</p>
+               <p>And that the wiues of the ſaide Baro<g ref="char:EOLhyphen"/>nets, and of the heires males of their bo<g ref="char:EOLhyphen"/>dies, ſhall likewiſe by vertue of the ſaide Dignitie of their ſaid husbands, in all pla<g ref="char:EOLhyphen"/>ces, and vpon all occaſions, haue, take and enioy their place and Precedencie during their liues, next vnto, and immediatly after that place that is due, and belongeth vnto the wiues of the yonger ſonnes of Viſ<g ref="char:EOLhyphen"/>counts
+<pb n="9" facs="tcp:5842:6"/>and Barons, and to the daughters of ſuch Viſcounts and Barons, Any Con<g ref="char:EOLhyphen"/>ſtitution, Vſe, Cuſtome, Ordinance, or other thing whatſoeuer, now or hereafter to the contrary in any wiſe notwithſtan<g ref="char:EOLhyphen"/>ding.</p>
+               <p>ANd further, his Maieſtie doth by theſe preſents, for him, his heires and ſuc<g ref="char:EOLhyphen"/>ceſſours, of his certaine knowledge and meere motion, promiſe and graunt to the ſaid Baronets, and euery of them already created, and hereafter to be created, and the heires males of their bodies, That nei<g ref="char:EOLhyphen"/>ther his Maieſtie, nor his heires or ſucceſ<g ref="char:EOLhyphen"/>ſours, ſhall or will at any time hereafter erect, ordaine, conſtitute or create any other Degree, Order, Name, Title, Stile, Dignitie or State, nor will giue place, Pre<g ref="char:EOLhyphen"/>cedencie or preheminence to any perſon or perſons whatſoeuer, vnder or beneath the Degree, dignitie or State of Lords of Parliament of this his Realme of <hi>England,</hi> which ſhall or may be, or be taken, vſed or accompted to be higher, before, or equall to the Degree, dignitie or place of the ſaid
+<pb n="10" facs="tcp:5842:7"/>Baronets, or any of them. AND there<g ref="char:EOLhyphen"/>fore his Maieſtie doeth for him, his heires and ſucceſſours ordeine, graunt, and ap<g ref="char:EOLhyphen"/>point by theſe preſents, that all and euery the ſaid Baronets, and their ſaide heires males, and the wiues ſonnes, ſonnes wiues, and daughters of the ſaid Baronets, and of their ſaid heires males, ſhall, and may for euer hereafter, freely and quietly haue, hold, and enioy their ſaid Dignities, Pla<g ref="char:EOLhyphen"/>ces, Precedencie, and Priuiledges before all other which are or ſhall be created of ſuch Decrees, States, Dignities, Orders, Names, Stiles, or Titles, or to whom ſuch place, Precedencie, or Preheminence ſhall be ſo giuen as aforeſaid; their wiues and chil<g ref="char:EOLhyphen"/>dren reſpectiuely, according to the true in<g ref="char:EOLhyphen"/>tent and meaning of theſe preſents:</p>
+               <p>Sauing neuertheleſſe to his Maieſtie, his heires and ſucceſſors, full and abſolute po<g ref="char:EOLhyphen"/>wer and authoritie to continue or reſtore to any perſon or perſons from time to time ſuch place and precedencie, as at any time hereafter ſhalbe due vnto them, which by any accident or occaſion whatſoeuer ſhall
+<pb n="11" facs="tcp:5842:7"/>be hereafter changed, any thing in theſe preſents, or other cauſe or reſpect whatſo<g ref="char:EOLhyphen"/>euer to the contrarie notwithſtanding.</p>
+               <p>And now though this Precedent decla<g ref="char:EOLhyphen"/>ration doth clearely ridde all queſtions ari<g ref="char:EOLhyphen"/>ſing vpon the Letters Patents, yet his Ma<g ref="char:EOLhyphen"/>ieſtie hauing vpon the occaſion of this con<g ref="char:EOLhyphen"/>trouerſie and hearing, and of ſome of the Baronets grieuances, propounded out of their owne mouthes, conſidered more ma<g ref="char:EOLhyphen"/>turely vpon the points and latitude of their ſaid Patents, his Maieſtie beeing reſolued (as out of his owne royall mouth it pleaſed him to declare vnto them) to ampliate his fauour, eſpecially where it meetes with theſe ſo wel borne and wel deſeruing Gen<g ref="char:EOLhyphen"/>tlemen, (this dignitie beeing of his Maie<g ref="char:EOLhyphen"/>ſties owne erection, and the worke of his owne handes) his Maieſtie is therefore graciouſly pleaſed (not contented with thoſe markes of his fauour, which alreadie they enioy by the wordes of their Patent, which layeth ſuch a marke of dignitie and precedence vpon them and their poſterity) further to ſtrengthen and adorne his Ma<g ref="char:EOLhyphen"/>ieſties
+<pb n="12" facs="tcp:5842:8"/>gracious fauour towards them, with addition of the priuiledges, preheminen<g ref="char:EOLhyphen"/>cies, and ornaments enſuing.</p>
+               <p>FIrſt, his Maieſtie is pleaſed to knight the preſent Baronets, that are no Knights: And doeth alſo by theſe preſents of his meere motion and fauour, promiſe and graunt for him, his heires and ſucceſſours, that ſuch Baronets, and the heires males of their bodies, as herafter ſhalbe no Knights, when they ſhall attaine, or be of the age of one and twentie yeares, vpon knowledge thereof giuen to the Lord Chamberlaine of the houſhold, or Vice-chamberlaine for the time beeing, or in their abſence to any other Officer attending vpon his Maieſties perſon, ſhall be knighted by his Maieſtie, his heires and ſucceſſours.</p>
+               <p>His Maieſtie doth alſo graunt for him, his heires and ſucceſſours, that the Baro<g ref="char:EOLhyphen"/>nets, and their deſcendants ſhall and may beare, either in a Canton in their coate of Armes, or in an Inſcutchion, at their ele<g ref="char:EOLhyphen"/>ction, the Armes of <hi>Vlster,</hi> that is, in a field
+<pb n="13" facs="tcp:5842:8"/>
+                  <hi>Argent,</hi> a hand <hi>Geules,</hi> or a bloudie hand.</p>
+               <p>And alſo, that the Baronets, for the time beeing, and the heires males of their bo<g ref="char:EOLhyphen"/>dies ſhall haue place in the armies of the Kings Maieſty his heires and ſucceſſours, in the groſſe, neere about the royall Standard of the King, his heires and ſucceſſours, for the defence of the ſame.</p>
+               <p>And laſtly, that the Baronets, and the heires males of their bodies ſhall haue two aſsiſtants of the bodie to ſupport the Pall, a principall mourner, and foure aſsiſtants to him at their funerals, being the meane be<g ref="char:EOLhyphen"/>twixt a Baron and a Knight.</p>
+               <p>And to the end that euery of the Baro<g ref="char:EOLhyphen"/>nets, and the heires males of their bodies, may haue vpon all occaſions preſent, vſe, and proofe of theſe his Maieſties fauours; His Maieſtie is graciouſly pleaſed, that aſ<g ref="char:EOLhyphen"/>well the Baronets alreadie created, as here<g ref="char:EOLhyphen"/>after to be created, ſhal and may haue, and take Letters Patents vnder the great Seale of <hi>England,</hi> to the effect of the ſaid former Letters Patents of creation, and of theſe preſents, either ioynt or ſeuerall, as they
+<pb n="14" facs="tcp:5842:9"/>ſhall be aduiſed by the learned Councell of his Maieſtie, his heires and ſucceſſours, and according to his Highneſſe true intent and meaning.</p>
+               <p>In witneſse whereof, We haue cauſed theſe Our Let<g ref="char:EOLhyphen"/>ters to be made Patents.</p>
+               <closer>
+                  <dateline>Witneſſe Our ſelfe at Westminſter, <date>the eight and twentieth day of May, in the tenth yeere of Our Raigne of En<g ref="char:EOLhyphen"/>gland, France, and Ireland, and of Scotland the fiue and fortieth.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <figure>
+                  <figDesc>printer's device of Robert Barker (1589-1645) a two-tailed mermaid blowing two horns with a fringe of tassels below</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:5842:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
